@@ -1,2 +1,2 @@
 # FFX_import
-A SideFX Houdini HDA to import and handle FumeFX VDB caches and relative fields
+![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_WELCOME.jpg)
