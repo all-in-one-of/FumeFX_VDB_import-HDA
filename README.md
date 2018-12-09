@@ -37,7 +37,8 @@ FFX_import is a SideFX Houdini HDA to work with FumeFX caches inside Houdini in 
 `FFX import HDA Studio Network`
 
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_004.jpg)
-`FFX import HDA Studio Network :: Loading mechanism`
+`FFX import HDA Studio Network :: Loading mechanism. Every FumeFX features: Single VDB Cache Sequence, SubFrames and NSim,
+have been worked out separatly inside their proper SubNetwork. Every one its aware of each other to perform live feedback on the UI based on the user choises.`
 
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_005.jpg)
 `FFX import HDA come with a nice Help/Documentation. It does include also live web link to the online FumeFX documentation
