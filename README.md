@@ -23,3 +23,5 @@ FFX_import is a SideFX Houdini HDA to work with FumeFX caches inside Houdini in 
 - Automated output file system and file naming. Just focus on crafting your work as quick as possible.
 - The following feature make use of the Automated output filesystem.
 - Export a Normals/Positions/Z-Depth Field in one click to load it back into 3DSMax ▸ FumeFX or Maya ▸ FumeFX and render it with your scene.
+
+![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx.jpg)
