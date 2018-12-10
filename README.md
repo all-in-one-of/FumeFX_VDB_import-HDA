@@ -3,6 +3,11 @@
 
 FFX_import is a SideFX Houdini HDA to work with FumeFX caches inside Houdini in an easy and fun way. It works like "DOP import fields" node does for Pyro but instead of referencing a live DOP it will operate on simulation VDB caches done with FumeFX v5 and up. It will also give you the ability to quickly export a set of AOVs new vdb caches to load them back into 3DSMax ▸ FumeFX in one click.
 
+FumeFX import was born during the production of this clip:
+https://vimeo.com/264618048
+
+Check the making of also:
+https://vimeo.com/268214826
 
 # Features List
 
