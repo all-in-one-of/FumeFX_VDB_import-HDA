@@ -33,6 +33,7 @@ https://vimeo.com/268214826
 
 The following feature make use of the Automated output filesystem.
 - Export a Normals/Positions/Z-Depth Field in one click to load it back into 3DSMax ▸ FumeFX or Maya ▸ FumeFX and render it with your scene.
+(FumeFX v5 and up has some great AOVs to output for the Arnold renderer but it is always nice to have those data stored on a per voxel level so why not.) 
 
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx.jpg)
 `Image generated with FumeFX v5.0.2`
