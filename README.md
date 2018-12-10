@@ -22,7 +22,7 @@ https://vimeo.com/268214826
 - FumeFX Fields/Channels auto rename to follow the common Houdini nameing convention.
 - Check for missing vector fields components. (Velocities wint only X or Colors with only R and G…)
 - Smart fields/channels shuffling and merging.
-- Load VDB caches as Fields or as BBOX for fast bounding preview.
+- Load VDB caches as Fields or as BBOX for fast bounding preview. ( the Bounding Box information come from the file chache header file so as long as there are information to be read, it will display the bbox in realtime without the need to load the cache volume fields first.)
 - Load FumeFX Sub Frames if exported. (Check "Save Sub Frames" in the FumeFX simulation tab)
 - Load NSims all at once. You must have saved all of them into the same folder (This include sub frames for each of them if they     have been exported. The Load sub frames option must be enabled). The tool is smart enough to check witch one of the caches present in the selected folder belong to an NSim and witch one does not.
 - NSIM as ONE convert all NSims caches into one and prepare it to succesfully load it back into FumeFX if you desire so.
