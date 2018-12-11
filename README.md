@@ -51,8 +51,8 @@ FFX import HDA has a compact and functional interface that accomodate every Fume
 and welcome them into the Houdini workflow and mentality.
 
 Loading FumeFX VDB caches in one click has never been this easy and fun,
-and no matter if you are loading a single FumeFX VDB cache sequence, or FumeFX sub frames and FumeFX NSim
-every tool functionality will work in all modes.
+and no matter if you are loading a single FumeFX VDB cache sequence, or FumeFX sub frames and FumeFX NSim;
+every tool's functionality will work in all modes.
 
 You will be able to import fields/channels on demand, rename and merge them with one click.
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_007.jpg)
