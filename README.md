@@ -38,7 +38,7 @@ The following feature make use of the Automated output filesystem.
 (FumeFX v5 and up has some great AOVs to output for the Arnold renderer but it is always nice to have those data stored on a per voxel level so why not.) 
 
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_powered_by.jpg)
-`FFX import HDA as been almost entirely coded using HOM python and VEX`
+
 
 
 # FFX import - Brief introduction
