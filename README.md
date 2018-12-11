@@ -29,6 +29,7 @@ https://vimeo.com/268214826
 During this mode, you will still be able to import, merge, shuffle and rename fields with one click.
 - Live Z-Depth manipulation for artistic control on the output values.
 - String auto formatting and simple errors checking anywhere you can input either a field name, a prefix or a filename.
+- Useful warning messages to keep you informed of the status of your caches and operations.
 - HDA help/documentation with live links to the online FumeFX doc.
 - Automated output file system and file naming. Just focus on crafting your work as quick as possible.
 
