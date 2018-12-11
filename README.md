@@ -41,18 +41,8 @@ The following feature make use of the Automated output filesystem.
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_powered_by.jpg)
 `FFX import HDA as been almost entirely coded using HOM python and VEX`
 
-![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_001.jpg)
+![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_ui_001.jpg)
 `FFX import inside Houdini UI interface`
-
-![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_002.jpg)
-`FFX import HDA first level content`
-
-![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_003.jpg)
-`FFX import HDA Studio Network`
-
-![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_004.jpg)
-`FFX import HDA Studio Network :: Loading mechanism. Every FumeFX features: Single VDB Cache Sequence, SubFrames and NSim,
-have been worked out separatly inside their proper SubNetwork. Every one its aware of each other to perform live feedback on the UI based on the user choises.`
 
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_005.jpg)
 `FFX import HDA come with a nice Help/Documentation. It does include also live web link to the online FumeFX documentation
