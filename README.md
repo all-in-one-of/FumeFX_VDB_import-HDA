@@ -44,6 +44,6 @@ The following feature make use of the Automated output filesystem.
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_ui_001.jpg)
 `FFX import inside Houdini UI interface`
 
-![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_005.jpg)
+![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_006.jpg)
 `FFX import HDA come with a nice Help/Documentation. It does include also live web link to the online FumeFX documentation
 anywhere a close correspondence of the feature you are using in order to set it correctly inside FumeFX to make it work.`
