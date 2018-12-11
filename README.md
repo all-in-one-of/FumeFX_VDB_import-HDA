@@ -41,7 +41,7 @@ The following feature make use of the Automated output filesystem.
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_powered_by.jpg)
 `FFX import HDA as been almost entirely coded using HOM python and VEX`
 
-# FFX import UI and functionalities 
+# FFX import UI and functionalities ( work in progress )
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_ui_001.jpg)
 
 FFX import HDA has a compact and functional interface that accomodate every FumeFX features with easy
@@ -52,6 +52,8 @@ and no matter if you are loading a single FumeFX VDB cache sequence, or FumeFX s
 every tool functionality will work in all modes.
 
 You will be able to import fields/channels on demand, rename and merge them with one click.
+![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_007.jpg)
+
 
 Although everything looks simple and functional, there is a certain level of complexity underneath to ensure
 everything will go smooth and in a fast execution as the tool scale up extremely well from one single VDB cache
