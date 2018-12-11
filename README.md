@@ -62,6 +62,13 @@ Although everything looks simple and functional, there is a certain level of com
 everything will go smooth and in a fast execution as the tool scale up extremely well from one single VDB cache
 to loading multiple FumeFX NSims at once while all their fields are smartly managed by the tool.
 
+![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_002.jpg)
+![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_003.jpg)
+![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_004.jpg)
+`A little progression of navigating inside some of the layer of this HDA.`
+
+
+
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_005.jpg)
 
 FFX import HDA come with a nice Help/Documentation. It does include also live web link to the online FumeFX documentation
