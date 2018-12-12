@@ -44,10 +44,12 @@ The following feature make use of the Automated output filesystem.
 
 
 
-# FFX import - Brief introduction
+
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx.jpg)
 `Image generated with FumeFX v5.0.2`
 
+
+# FFX import - Brief introduction
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_ui_001.jpg)
 
 FFX import HDA has a compact and functional interface that accomodate every FumeFX features with easy
