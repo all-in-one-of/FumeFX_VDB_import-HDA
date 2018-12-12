@@ -62,9 +62,9 @@ Although everything looks simple and mondane, there is a certain level of comple
 everything will go smooth and in a fast execution as the tool scale up well from one single VDB cache
 to loading multiple FumeFX NSims at once while all their fields are smartly managed.
 
-![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_002.jpg)
-![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_003.jpg)
-![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_004.jpg)
+![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_002b.jpg)
+![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_003b.jpg)
+![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_004b.jpg)
 `A little progression of navigating inside some of the layer of this HDA.`
 
 
