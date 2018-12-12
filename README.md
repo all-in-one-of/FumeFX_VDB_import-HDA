@@ -1,4 +1,7 @@
 # FFX import HDA for SideFX Houdini 16.5.x to 17.x.x
+`Special Thank You to SitniSati for granting me permission to use their logos and for crafting FumeFX.`
+`SitniSati web page:` www.afterworks.com
+
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_WELCOME.jpg)
 
 FFX_import is a SideFX Houdini HDA to work with FumeFX caches inside Houdini in an easy and fun way. It works like "DOP import fields" node does for Pyro but instead of referencing a live DOP it will operate on simulation VDB caches done with FumeFX v5 and up. 
