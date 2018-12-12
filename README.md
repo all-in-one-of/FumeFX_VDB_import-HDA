@@ -73,4 +73,4 @@ and active based on the user choices and loaded FumeFX VDB cache data.
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_005.jpg)
 
 FFX import HDA come with a nice Help/Documentation. It does include also live web link to the online FumeFX documentation
-anywhere a close correspondence of the feature you are using in order to set it correctly inside FumeFX to make it work.
+anywhere there is a close correspondence to the feature you are using in order to correctly setup FumeFX and accomodate the import process.
