@@ -57,7 +57,7 @@ and bring them into the Houdini workflow and mentality.
 
 Loading FumeFX VDB caches in Houdini has never been this easy and fun,
 and no matter if you are loading a single FumeFX VDB cache sequence, or FumeFX sub frames and FumeFX NSim;
-every tool's functionality will work in all modes.
+every tool's functionalities will work in all modes.
 
 You will be able to import fields/channels on demand, rename and merge them with one click.
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_007.jpg)
