@@ -60,7 +60,8 @@ You will be able to import fields/channels on demand, rename and merge them with
 
 Although everything looks simple and mondane, there is a certain level of complexity underneath to ensure
 everything will go smooth and in a fast execution as the tool scale up well from one single VDB cache
-to loading multiple FumeFX NSims at once while all their fields are smartly managed.
+to loading multiple FumeFX NSims caches at once while all their fields are smartly managed and keeping the UI responsive
+and active based on the user choices and loaded FumeFX VDB cache data.
 
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_002c.jpg)
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_003c.jpg)
