@@ -48,7 +48,7 @@ The following feature make use of the Automated output filesystem.
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_ui_001.jpg)
 
 FFX import HDA has a compact and functional interface that accomodate every FumeFX features with easy
-and welcome them into the Houdini workflow and mentality.
+and bring them into the Houdini workflow and mentality.
 
 Loading FumeFX VDB caches in one click has never been this easy and fun,
 and no matter if you are loading a single FumeFX VDB cache sequence, or FumeFX sub frames and FumeFX NSim;
@@ -58,8 +58,8 @@ You will be able to import fields/channels on demand, rename and merge them with
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_007.jpg)
 
 
-Although everything looks simple and functional, there is a certain level of complexity underneath to ensure
-everything will go smooth and in a fast execution as the tool scale up extremely well from one single VDB cache
+Although everything looks simple and mondane, there is a certain level of complexity underneath to ensure
+everything will go smooth and in a fast execution as the tool scale up well from one single VDB cache
 to loading multiple FumeFX NSims at once while all their fields are smartly managed by the tool.
 
 ![alt text](https://github.com/alexnardini/FFX_import/blob/master/imgs/ffx_import_h_002.jpg)
