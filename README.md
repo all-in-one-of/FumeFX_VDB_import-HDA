@@ -50,7 +50,7 @@ The following feature make use of the Automated output filesystem.
 FFX import HDA has a compact and functional interface that accomodate every FumeFX features with easy
 and bring them into the Houdini workflow and mentality.
 
-Loading FumeFX VDB caches in one click has never been this easy and fun,
+Loading FumeFX VDB caches in Houdini has never been this easy and fun,
 and no matter if you are loading a single FumeFX VDB cache sequence, or FumeFX sub frames and FumeFX NSim;
 every tool's functionality will work in all modes.
 
