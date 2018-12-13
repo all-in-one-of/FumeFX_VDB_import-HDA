@@ -66,7 +66,7 @@ You will be able to import fields/channels on demand, rename and merge them with
 
 
 Although everything looks simple and ordinary, there is a certain level of complexity underneath to ensure
-everything will go smooth and in a fast execution as the tool scale up well from one single VDB cache
+everything goes smooth and execute fast. The tool scale up well from one single VDB cache
 to loading multiple FumeFX NSims caches at once while all their fields are smartly managed and the UI kept responsive
 and active based on the user choices and selected FumeFX VDB cache data.
 
