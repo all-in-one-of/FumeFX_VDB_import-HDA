@@ -61,6 +61,10 @@ file = node.parm("../../../ffxvdbfile").rawValue()
 doss = node.parm("doss").eval()
 isvalid_filename = 1
 
+## This code run inside a non time dependant python SOP
+## every time the user load a FumeFX VDB cache or click the update button
+## so no need to wrap it inside a main function, really.
+
 #
 # build list
 if len(file)>0:
