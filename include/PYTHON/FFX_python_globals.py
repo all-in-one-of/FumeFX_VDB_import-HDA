@@ -13,6 +13,10 @@
 ## done with FumeFX v5 and up.
 ##
 
+## This code run inside a non time dependant python SOP
+## every time the user load a FumeFX VDB cache or click the update button
+## so no need to wrap it inside a main function, really.
+
 # Ourself
 node = hou.pwd()
 geo = node.geometry()
