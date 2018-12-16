@@ -58,7 +58,11 @@ def neg_match(file):
     strings = m.groups()
     name = bname+fnum+"."+ext
     return [bname, fnum, ext, name]
-    
+  
+## This code run inside a non time dependant python SOP
+## every time the user load a FumeFX VDB cache or click the update button
+## so no need to wrap it inside a main function, really.   
+ 
 # .rawValue()
 # So we dnt need this Python SOP time dependant
 # and we update it everytime the user change FumeFX VDB cache file
