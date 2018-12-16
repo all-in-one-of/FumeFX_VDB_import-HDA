@@ -56,7 +56,10 @@ def neg_match(file):
     name = bname+fnum+"."+ext
     return [bname, fnum, ext, name]
     
-
+## This code run inside a non time dependant python SOP
+## every time the user load a FumeFX VDB cache or click the update button
+## so no need to wrap it inside a main function, really.
+    
 ext = ".vdb"
 file = node.parm("../../../ffxvdbfile").rawValue()
 
