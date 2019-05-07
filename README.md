@@ -10,6 +10,13 @@ It will also give you the ability to quickly export a set of AOVs new vdb caches
 
 #### It has to be considered more of an utility/pipeline tool and hope you like FumeFX as much as I do.
 
+### FFX NeverSeenBefore 2019
+FumeFX import has been refined and improved during the production of:
+https://vimeo.com/330485668
+
+Check out the making of also:
+https://vimeo.com/331882874
+
 ### FFX Virtuous Fumes clip 
 FumeFX import was born during the production of "Virtuous Fumes":
 https://vimeo.com/264618048
