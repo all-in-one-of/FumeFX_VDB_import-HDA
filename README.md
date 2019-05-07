@@ -33,6 +33,7 @@ https://vimeo.com/268214826
 - NSIM as ONE convert all NSims caches into one and prepare it to succesfully load it back into FumeFX if you desire so.
 During this mode, you will still be able to import, merge, shuffle and rename fields with one click.
 - Live Z-Depth manipulation for artistic control on the output values.
+- Fast bounding box preview across all modes ( Single cache, Nsim and NSIMaONE ).
 - String auto formatting and simple errors checking anywhere you can input either a field name, a prefix or a filename.
 - Useful warning messages to keep you informed of the status of your caches and operations.
 - HDA help/documentation with live links to the online FumeFX doc.
