@@ -8,6 +8,7 @@ FFX_import is a SideFX Houdini HDA to work with FumeFX caches inside Houdini in 
 It will let you load FumeFX VDB Caches, FumeFX Sub Frames and Nsims caches without any effort. And much more.
 It will also give you the ability to quickly export a set of AOVs new vdb caches to load them back into 3DSMax ▸ FumeFX in one click.
 
+`Download the HDA from Orbolt:` https://www.orbolt.com/asset/alexnardini::FFX_import::1.5
 #### It has to be considered more of an utility/pipeline tool and hope you like FumeFX as much as I do.
 
 ### FFX NeverSeenBefore 2019
